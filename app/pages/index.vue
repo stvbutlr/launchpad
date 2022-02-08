@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="/images/uploads/hero.jpg"
+          src="/images/uploads/hero.jpeg"
         />
       </div>
     </div>

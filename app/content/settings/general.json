@@ -1,7 +1,7 @@
 {
   "title": "AF Launchpad",
   "titleTemplate": "| Starter Kit",
-  "welcomeText": "# Welcome to HeXTalent\n\nWe're currently building our platforms. Drop us an email and say hello!\n\n\n\n\n\n",
+  "welcomeText": "# Welcome to HeXTalent – We're currently building our platforms.\n\nDrop us an email and say hello!\n\n\n\n\n\n",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0094BA",

@@ -1,10 +1,10 @@
 {
   "title": "AF Launchpad",
   "titleTemplate": "| Starter Kit",
-  "welcomeText": "# Yo, I'm launchpad - An Applyflow recruiter startup page.\n\nEnjoy a complimentary page while we build your job board and recruitment website.\n\n\n\n\n\nGet signups too!",
+  "welcomeText": "# Welcome to HeXTalent\n\nWe're currently building our platforms. Drop us an email and say hello!\n\n\n\n\n\n",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0F0D30",
+  "loadingColor": "#0094BA",
   "seoDescription": "An Applyflow recruiter startup page",
   "seoMetaImage": ""
 }

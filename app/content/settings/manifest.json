@@ -2,7 +2,7 @@
   "name": "AF Starter Kit",
   "shortName": "AF Starter Kit",
   "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0F0D30",
+  "themeColor": "#0094BA",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }

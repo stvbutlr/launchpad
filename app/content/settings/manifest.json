@@ -1,6 +1,6 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
+  "name": "AF Starter Kit",
+  "shortName": "AF Starter Kit",
   "description": "A Nuxt.js & Netlify CMS boilerplate.",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",

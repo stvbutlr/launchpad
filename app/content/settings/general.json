@@ -1,10 +1,10 @@
 {
-  "title": "AF Launchpad",
-  "titleTemplate": "| Starter Kit",
+  "title": "HexTalent",
+  "titleTemplate": "| Coming soon",
   "welcomeText": "# Welcome to HeXTalent – We're currently building our platforms.\n\nDrop us an email and say hello!\n\n\n\n\n\n",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0094BA",
-  "seoDescription": "An Applyflow recruiter startup page",
-  "seoMetaImage": ""
+  "seoDescription": "HexTalent | Coming soon...",
+  "seoMetaImage": "/images/uploads/meta-image.jpeg"
 }
